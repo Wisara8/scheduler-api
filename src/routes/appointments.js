@@ -69,3 +69,4 @@ module.exports = (db, updateAppointment) => {
 
   return router;
 };
+
